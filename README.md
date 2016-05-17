@@ -1,4 +1,4 @@
-# Gamebox Panel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Gamebox Panel [![Awesome](https://codeship.com/projects/3a4e7c40-fe00-0133-e67d-723e3c38997b/status?branch=master)](https://github.com/GameboxPanel/GameboxPanel-Alpha)
 > Explore our source while the project is in alpha.
 
 The future of control every kind of game server out there. We provide a clean responsive and of course easy to use game control panel for unbeatable pricing.
