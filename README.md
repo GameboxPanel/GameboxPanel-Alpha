@@ -1,37 +1,31 @@
-<img src="icon.png" align="right" />
-# Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of awesome README
+# Gamebox Panel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> Explore our source while the project is in alpha.
 
-Elements in beautiful READMEs include, but not limited to: images, screenshots, GIFs, text formatting, etc.
+The future of control every kind of game server out there. We provide a clean responsive and of course easy to use game control panel for unbeatable pricing.
 
+## About Gamebox Panel
+Started by 19 year old Kyle Staschke, I needed a control panel which was clean, easy to use, and had more features than what other paid game panels offered. I was starting a hosting company and TCAdmin was a choice for me but it was not as clean and well built as I would of liked but it did provide functionality. My goal in the next year of development is to wow the gaming community with both outstanding features for very low prices as I am not in this for money but to provide resources that anyone can use. Of course my I will have to have paid features as my time is limited to work on this project.
 
-## Examples
-- [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
-- [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - Build badges. Clear description of what the project does. TOC for easy navigation. Project logo. Extensive explanations and examples.
-- [jakubroztocil/httpie](https://github.com/jkbrzt/httpie) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
-- [karan/joe](https://github.com/karan/joe) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
-- [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-- [rstacruz/hicat](https://github.com/rstacruz/hicat) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
-- [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
-- [shama/gaze](https://github.com/shama/gaze) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
-- [node-chat](https://github.com/IgorAntun/node-chat) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
-- [b4b4r07/dotfiles](https://github.com/b4b4r07/dotfiles) - Testing my dotfiles repo on OS X to get my work environment ready in just a few moments. #VIM + #ZSH + #TMUX = Best Developer Environment.
+## Pricing, Is it free?
+I am not 100% certain on what the pricing format will be but below is an example of what I currently have in mind.
 
-## Articles
-- ["How To Write A Readme"](http://jfhbrook.github.io/2011/11/09/readmes.html) - *Joshua Holbrook*
-- ["How To Write A Great README"](https://robots.thoughtbot.com/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
-- ["Readme Driven Development"](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
-- ["Top ten reasons why I won’t use your open source project"](https://changelog.com/top-ten-reasons-why-i-wont-use-your-open-source-project/) - *Adam Stacoviak*
+### Free Plan Features
+
+ - 1 Remote Machine
+ - Unlimited Game Servers
+ - No Support
+
+### $3.29 / mo Features
+
+ - Unlimited Remote Machines
+ - Unlimited Game Servers
+ - Support Requests
 
 
-## Contribute
+----------
 
-Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
+## Can I Help?
+Sure, I take pull requests here as this will be a community project for the most part but our main repo is a private git hub repository. This will only be open source for the Alpha versions as for licensing a security reasons I will have to encrypt the source code to distribute it. Also note, I will not be puting the licensing code in the public repository for this reason.
 
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Matias Singers](http://mts.io) has waived all copyright and related or neighboring rights to this work.
+## Questions
+You can email me at kstaschke@gameboxpanel.ga with any questions that you may have. I will update everything here as more information comes out.
